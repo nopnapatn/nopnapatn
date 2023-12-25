@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nopnapat-norasri/)
 
-## 💫 About Me:
+## 💫 About Me
 
 I'm **Neuw (He/Him)**, a Mobile and Full Stack developer at Kasetsart University.\*\* Passionate about building online communities, I use Discord for work discussions and project collaboration in my free time.
 
-## 💻 Tools I Used:
+## 💻 Tools I Used
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,neovim,go,vscode,flutter,react,tailwindcss,html,css,next,nuxt,docker,firebase,mysql,git,github,markdown)](https://skillicons.dev)
 
