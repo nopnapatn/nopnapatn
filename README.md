@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 💫 About Me
 
-I'm **Neuw (He/Him)**, a Mobile and Full Stack developer at Kasetsart University.\*\* Passionate about building online communities, I use Discord for work discussions and project collaboration in my free time.
+I'm **Neuw (He/Him)**, a Mobile and Full Stack developer at Kasetsart University.\*\* Passionate about building online communities, I use Discord for work discussions and project <ins>(at develop branch)</ins> collaboration in my free time.
 
 ## 💻 Tools I Used
 
@@ -28,5 +28,5 @@ I'm **Neuw (He/Him)**, a Mobile and Full Stack developer at Kasetsart University
 
 ## ⭐️ Quotes
 
-> “I've been using Vim for about 2 years now, mostly because I can't figure out how to exit it”
-> --Some Developer.
+> “I've been using Vim for about 2 years now, mostly because I can't figure out how to exit it.”
+> --Some Developer
