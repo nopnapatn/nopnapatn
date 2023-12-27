@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi I'm Nopnapat Norasri👋
 
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
+[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nopnapatn.dev/)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nopnapat-norasri/)
 
 ## 💫 About Me
