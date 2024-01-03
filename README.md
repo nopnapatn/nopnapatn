@@ -13,20 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi I'm Nopnapat Norasri👋
+## Hi I'm Nopnapat Norasri 👋
 
-[![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nopnapatn.dev/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nopnapat-norasri/)
+I'm **Neuw (He/Him)**, seek a Mobile and Full Stack developer at **Kasetsart University**. Passionate about building online communities, I use Discord for work discussions and project **(develop branch)** collaboration in my free time.
 
-## 💫 About Me
+### How to Reach Me
 
-I'm **Neuw (He/Him)**, a Mobile and Full Stack developer at **Kasetsart University.** Passionate about building online communities, I use Discord for work discussions and project **(at develop branch)** collaboration in my free time.
-
-## 💻 Tools I Used
-
-[![My Skills](https://skillicons.dev/icons?i=ts,js,neovim,go,vscode,flutter,react,tailwindcss,html,css,next,nuxt,docker,firebase,mysql,git,github,markdown)](https://skillicons.dev)
-
-## ⭐️ Quotes
+- **Email:** nopnapatn@gmail.com
 
 > “I've been using Vim for about 2 years now, mostly because I can't figure out how to exit it.”
-> --Some Developer
+
+[P.S. No one reads this](https://nopnapatn.dev/)
+
+<details>
+    <summary><b>More about me... (Click to expand)</b></summary>
+    soon..
+</details>
