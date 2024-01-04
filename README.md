@@ -19,9 +19,11 @@ I'm **Neuw (He/Him)**, seek a Mobile and Full Stack developer at **Kasetsart Uni
 
 ### How to Reach Me
 
-- **Email:** nopnapatn@gmail.com
+- **Email:** <nopnapatn@gmail.com>
 
 > “I've been using Vim for about 2 years now, mostly because I can't figure out how to exit it.”
+
+[![Tools](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flutter,firebase,swift)](https://skillicons.dev)
 
 [P.S. No one reads this](https://nopnapatn.dev/)
 
