@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi I'm Nopnapat Norasri 👋
 
-I'm **Neuw (He/Him)**, seek a Mobile and Full Stack developer at **Kasetsart University**. Passionate about building online communities, I use Discord for work discussions and project **(develop branch)** collaboration in my free time.
+I'm **Neuw (He/Him)**, seek a Mobile and Full Stack developer, I'm study at **Kasetsart University**. Passionate about building online communities, I use Discord for work discussions and project **(develop branch)** collaboration in my free time.
 
 ### How to Reach Me
 
